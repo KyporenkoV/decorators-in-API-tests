@@ -21,8 +21,8 @@ Here's an examples of the reports with the use of step decorators:
 
 1) simple report
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/KyporenkoV/example-of-using-decorators-with-playwright/main/screenshots/1.png"></h1>
+<h1 align="center"><img src="https://github.com/KyporenkoV/example-of-using-decorators-with-playwright/blob/main/screenshots/1.png?raw=true"></h1>
 
 2) trace
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/KyporenkoV/example-of-using-decorators-with-playwright/main/screenshots/2.png"></h1>
+<h1 align="center"><img src="https://github.com/KyporenkoV/example-of-using-decorators-with-playwright/blob/main/screenshots/2.png?raw=true"></h1>
